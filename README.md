@@ -1,3 +1,5 @@
+⚠️microcmsレポジトリからライブラリとして使用されているので削除しないでください⚠️
+
 # Quill Delta to Object Converter #
 Converts [Quill's](https://quilljs.com) [Delta](https://quilljs.com/docs/delta/) format to Object (insert ops only) with properly nested lists.
 
